@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-overpass: Overpass;
+  --font-maven-pro: "Maven Pro";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --green-2: #27ae60;
+  --green-3: #6fcf97;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-46xl: 65px;
+  --padding-11xs: 2px;
+
+  /* Border radiuses */
+  --br-36xl: 55px;
+  --br-mid-6: 17.6px;
+}
